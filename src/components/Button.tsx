@@ -4,7 +4,7 @@ export const Button = (props: React.PropsWithChildren) => {
       <div className="absolute inset-0">
         <div className="rounded-lg border border-white/20 absolute inset-0 [mask-image:linear-gradient(to_bottom,black,transparent)]" />
         <div className="rounded-lg border border-white/40 absolute inset-0 [mask-image:linear-gradient(to_top,black,transparent)]" />
-        <div className="absolute inset-0 shadow-[0_0_10px_rgba(140, 69, 255, .7)_inset] rounded-lg" />
+        <div className="absolute inset-0 shadow-[0_0_10px_rgba(140,69,255,.7)_inset] rounded-lg" />
       </div>
       <span>{props.children}</span>
     </button>
