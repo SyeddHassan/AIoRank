@@ -1,4 +1,7 @@
+"use client";
 /* eslint-disable @next/next/no-img-element */
+
+import { motion } from "framer-motion";
 
 import acmeLogo from "@/assets/logo-acme.png";
 import pulseLogo from "@/assets/logo-pulse.png";
@@ -15,9 +18,20 @@ export const LogoTicker = () => {
           <div className="flex-1 md:flex-none">
             <h2>Trusted by top innovative teams</h2>
           </div>
-          <div className="flex-1 overflow-hidden [mask-image:linear-gradient(to_right,transparent,black_20%,black_0%,transparent)]">
-            <div className="flex flex-none gap-14">
+          <div className="flex flex-1 overflow-hidden [mask-image:linear-gradient(to_right,transparent,black_20%,black_0%,transparent)]">
+            <motion.div
+              initial={{ translateX: "-50%" }}
+              animate={{ translateX: "0" }}
+              transition={{ repeat: Infinity, duration: 30, ease: "linear" }}
+              className="flex flex-none gap-14 pr-14 -translate-x-1/2"
+            >
               {[
+                acmeLogo,
+                pulseLogo,
+                echoLogo,
+                celestialLogo,
+                apexLogo,
+                quantumLogo,
                 acmeLogo,
                 pulseLogo,
                 echoLogo,
@@ -32,7 +46,7 @@ export const LogoTicker = () => {
                   alt="Parnerts Logo"
                 />
               ))}
-            </div>
+            </motion.div>
           </div>
         </div>
       </div>
