@@ -1,6 +1,6 @@
 # AIoRank: AI SEO Platform Frontend
 
-![NotIphone - Landing Page](https://media.licdn.com/dms/image/v2/D4E22AQHUCdVz8RLQcA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028844545?e=1727913600&v=beta&t=Fth-ANG6e551zjAR7dagKOh4ezfRLJ_Bh2k7hISZAkk)
+![AIoRank - Landing Page](https://media.licdn.com/dms/image/v2/D4E22AQEV43bpztE4bg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725370211232?e=1728518400&v=beta&t=dV1cdBcG8jzmVEAEi65WI-ofpwmhSDPRbbmKsMpUMU0)
 
 ## Introduction
 
@@ -16,22 +16,22 @@ AIoRank is a cutting-edge AI SEO platform frontend designed with a focus on deli
 
 ## Screenshots
 
-### 3D Model Display
+### Figma Design
 
-![3D Model](https://media.licdn.com/dms/image/v2/D4E22AQFxaeU5-KHQjQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028843783?e=1727913600&v=beta&t=bCPTVqqAXU2RJzaFJQdS5aUOu-widN6emUvUiXVUiaM)
-![3D Model02](https://media.licdn.com/dms/image/v2/D4E22AQGiV1Kfdxb6Xw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028843848?e=1727913600&v=beta&t=Slz47B-8PywMlSLNm6iVqOYAoLm-jx8dMenN5aRT1bo)
+![Figma Design](https://media.licdn.com/dms/image/v2/D4E22AQGDxrgh4ZBVrg/feedshare-shrink_1280/feedshare-shrink_1280/0/1725370210381?e=1728518400&v=beta&t=qlpsdBw_l4sPlTQ1RyHiFVXzDyIdbdnoWEeWWpoxS34)
 
-### GSAP Animations
+### Results
 
-![GSAP Animation](https://media.licdn.com/dms/image/v2/D4E22AQHk5VeDqHu_7w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028845353?e=1727913600&v=beta&t=_bvirgOn6HT7qLWAeqFR_KgCDce5lrZu6EU9OVcmdO0)
-![GSAP Animation02](https://media.licdn.com/dms/image/v2/D4E22AQGgxXau5YDaTA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725028845507?e=1727913600&v=beta&t=Wj5kGCOiZct6JRG23HGUa7GB3iU0EP1FyE4HT7wuwVo)
+![Results](https://media.licdn.com/dms/image/v2/D4E22AQFH3J8U-0-llQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725370210303?e=1728518400&v=beta&t=_JqvgW7dXQ7Lx_jemHJ-SfuUl4QfPeK5s0VHI7yPwY4)
+![Results 02](https://media.licdn.com/dms/image/v2/D4E22AQGcBnSWH7Wi-Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725370211911?e=1728518400&v=beta&t=t5wc0mXt5_hRQH4LZEY8Z0yTQCRrFoHcrFV8HhFoZ7E)
+![Results 02](https://media.licdn.com/dms/image/v2/D4E22AQFH3J8U-0-llQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725370210303?e=1728518400&v=beta&t=_JqvgW7dXQ7Lx_jemHJ-SfuUl4QfPeK5s0VHI7yPwY4)
 
 ### Responsive Design
 
-![Responsive Design](https://media.licdn.com/dms/image/v2/D4E22AQFxO57oq8tGgA/feedshare-shrink_800/feedshare-shrink_800/0/1725028843181?e=1727913600&v=beta&t=UBvRz_HvUHcn41V44YQt2oT5fWHLmCBnp3ARPIakVV0)
-![Responsive Design02](https://media.licdn.com/dms/image/v2/D4E22AQFo4Xj4ecrJFg/feedshare-shrink_800/feedshare-shrink_800/0/1725028843071?e=1727913600&v=beta&t=h7bYMK2aDJrxMIQ595T8hGGqEytzsW9N72Put9yv5Hc)
-![Responsive Design03](https://media.licdn.com/dms/image/v2/D4E22AQETXUqvtbtzDA/feedshare-shrink_800/feedshare-shrink_800/0/1725028844888?e=1727913600&v=beta&t=3nsSGf7vHN1PiKSE5zNQqUdvILEOPBe76ZxnCHne8zU)
-![Responsive Design04](https://media.licdn.com/dms/image/v2/D4E22AQHQeU9v6-4FrA/feedshare-shrink_800/feedshare-shrink_800/0/1725028843549?e=1727913600&v=beta&t=U9Qycq3cCB79rKquZlebNbnmfxsInQZ9OxIUl4WeBOY)
+![Responsive Design](https://media.licdn.com/dms/image/v2/D4E22AQG3tWtKBdJu9w/feedshare-shrink_800/feedshare-shrink_800/0/1725370210932?e=1728518400&v=beta&t=NdirQM_dQapC-T0zlHnW9L3cA749B7kUY-14zxumQRI)
+![Responsive Design02](https://media.licdn.com/dms/image/v2/D4E22AQFQ9KdYgrrMBQ/feedshare-shrink_800/feedshare-shrink_800/0/1725370209367?e=1728518400&v=beta&t=ERdcNw-2gWoM2lDjbLAWX3T53upj65RjAPjFZOJF3Qs)
+![Responsive Design03](https://media.licdn.com/dms/image/v2/D4E22AQESE_SKgi-LRQ/feedshare-shrink_800/feedshare-shrink_800/0/1725370209736?e=1728518400&v=beta&t=zxGqp1eNUhTqCoJiiJcwKwpeT2mYFlPYk4MBp--E23o)
+![Responsive Design04](https://media.licdn.com/dms/image/v2/D4E22AQHl1keaiUKjvQ/feedshare-shrink_800/feedshare-shrink_800/0/1725370209385?e=1728518400&v=beta&t=0Hgojdr3Uz2zf0-zTN-VU04xp6-qLca2ha7iOFVUG0Q)
 
 ## Features
 
